@@ -1,6 +1,6 @@
 # Hi, I'm Aryan Verma 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BCA+(H)+Student;Full+Stack+Developer;Building+Web+Applications;Learning+Something+New+Every+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BCA+(H)+Student;Full+Stack+Developer;Building+Web+Applications;Learning+Something+New+Every+Day&v=1)](https://git.io/typing-svg)
 
 I am a Full Stack Developer based in Jharkhand, India, currently pursuing my Bachelor of Computer Applications. I specialize in building responsive, user-centric web applications and have a strong focus on UI design, real-time database integration, and modern frontend technologies. 
 
@@ -42,11 +42,11 @@ I am a Full Stack Developer based in Jharkhand, India, currently pursuing my Bac
 
 ## 📊 GitHub Analytics
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanvermasoc-hub&show_icons=true&theme=tokyonight&hide_border=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanvermasoc-hub&show_icons=true&theme=tokyonight&hide_border=true&v=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aryanvermasoc-hub&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aryanvermasoc-hub&theme=tokyonight&hide_border=true&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvermasoc-hub&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvermasoc-hub&layout=compact&theme=tokyonight&hide_border=true&v=1)
 
 ---
 
