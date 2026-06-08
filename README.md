@@ -20,21 +20,19 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanvermasoc-hub\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aryanvermasoc-hub\&theme=tokyonight)
 
 ---
 
-## 📈 Most Used Languages
+## 👨‍💻 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvermasoc-hub\&layout=compact\&theme=tokyonight)
+* 🎓 BCA Student
+* 🌱 Currently learning Full Stack Development
+* 💡 Interested in Web Development and Databases
+* 🚀 Working on improving my programming skills
+* 📚 Exploring new technologies every day
 
 ---
 
@@ -50,10 +48,21 @@
 
 ## 🚀 Featured Projects
 
-* Student Management System
-* Product Review Platform
-* Expense Tracker
-* Portfolio Website
+### Student Management System
+
+A project for managing student records efficiently.
+
+### Product Review Platform
+
+A platform where users can review and rate products.
+
+### Expense Tracker
+
+Track daily expenses and manage budgets.
+
+### Portfolio Website
+
+A personal website showcasing projects and skills.
 
 ---
 
@@ -63,4 +72,4 @@
 
 ---
 
-⭐ Thanks for visiting my profile! Have a great day!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
