@@ -50,9 +50,7 @@
 
 ## 🚀 Featured Projects
 
-* Student Management System
-* Product Review Platform
-* Expense Tracker
+* Chat with game application
 * Portfolio Website
 
 ---
