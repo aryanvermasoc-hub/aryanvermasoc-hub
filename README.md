@@ -42,16 +42,11 @@ I am a Full Stack Developer based in Jharkhand, India, currently pursuing my Bac
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanvermasoc-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryan's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=aryanvermasoc-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanvermasoc-hub&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=aryanvermasoc-hub&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvermasoc-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvermasoc-hub&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -60,8 +55,8 @@ I am a Full Stack Developer based in Jharkhand, India, currently pursuing my Bac
 Let's collaborate on an open-source project or discuss full-stack development!
 
 * **GitHub:** [@aryanvermasoc-hub](https://github.com/aryanvermasoc-hub)
-* **Email:** [aryanvermasoc@gmail.com]
-* **LinkedIn:**
+* **Email:** [aryanvermasoc@gmail.com](mailto:aryanvermasoc@gmail.com)
+* **LinkedIn:** [Your LinkedIn Profile URL]
 
 <p align="center">
   ⭐ <i>Thanks for visiting my profile! Have a great day!</i> ⭐
