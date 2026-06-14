@@ -56,7 +56,7 @@ Let's collaborate on an open-source project or discuss full-stack development!
 
 * **GitHub:** [@aryanvermasoc-hub](https://github.com/aryanvermasoc-hub)
 * **Email:** [aryanvermasoc@gmail.com](mailto:aryanvermasoc@gmail.com)
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** 
 
 <p align="center">
   ⭐ <i>Thanks for visiting my profile! Have a great day!</i> ⭐
